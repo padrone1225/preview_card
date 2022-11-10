@@ -1,3 +1,7 @@
+@import url("https://fonts.google.com/specimen/Montserrat");
+@import url("https://fonts.google.com/specimen/Fraunces");
+/* @import url("https://fonts.google.com/specimen/css?family=Montserrat:500,700&display=swap"); */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
